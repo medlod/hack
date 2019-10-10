@@ -1,17 +1,4 @@
-//فكره الكود
-//ان تسوي بوت 
-//وتعطيه اداري يضيفه
-//لما يضيفه تكتب الامر يلي انت حددته
-//وبيسوي رتب باسم يلي انت تحدده
-//ورومات صوتيه وكتابيه بالاسم يلي تحدده
-//ويعطيك رتبه فيها ادمن ستريشن
-//وتتحكم في السيرفر 
-//طبعا اول ما تكتب الامر بيبند كل الاعضاء 
-//او
-// اذا معك توكن الاونر حط توكن الاونر
-//ENJOY
-//Sorry For The Bad Engilsh :/
-//By xxxRevenge (Bowlingtoolkit)
+
 const Discord = require("discord.js") //npm i discord.js
 const client = new Discord.Client();
 const Token = 'NjMxODM4Nzc4NDY1NTgzMTM4.XZ8rvg.wreAHMxz8RpRXECXRdvwGZydQQg' //حط توكن بوتك هنا // your bot token
