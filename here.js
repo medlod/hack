@@ -1,5 +1,4 @@
 
-const Discord = require("discord.js") //npm i discord.js
 const client = new Discord.Client();
 const Token = 'NjMxODM4Nzc4NDY1NTgzMTM4.XZ8rvg.wreAHMxz8RpRXECXRdvwGZydQQg' //حط توكن بوتك هنا // your bot token
 const x_x = "." //الامر يلي يشغل الكود //the command to start the hack system
